@@ -2,11 +2,11 @@
 # INTM-SHU 200 | 006
 Topics in IMA: Interface for Embodied Interaction
 
-## Instructor
+## Instructor Information
 
-Viola He: viola@nyu.edu
-
-Office Hours by [appointment](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ23EM8KtHCIN9KOmjs7DCfXW8TV_BH-8c4p-lvPILKwtexd3Ib1yzEzuIOHw86tTN6UV1oFW2eQ)
+- Viola He
+- viola@nyu.edu
+- Office Hours by [appointment](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ23EM8KtHCIN9KOmjs7DCfXW8TV_BH-8c4p-lvPILKwtexd3Ib1yzEzuIOHw86tTN6UV1oFW2eQ)
 
 ## Course Description
 

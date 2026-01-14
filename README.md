@@ -1,10 +1,8 @@
-# Topics in IMA: Interface for Embodied Interaction
+# Topics in IMA: Interface for Embodied Interaction Spring 26
 
-Spring 2026 ~ Mondays 5:15 - 8:00pm ~ N406 / Screening Room
-
-Instructor: Viola He [viola@nyu.edu](mailto:viola@nyu.edu)
-
-Office Hours by [appointment](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ23EM8KtHCIN9KOmjs7DCfXW8TV_BH-8c4p-lvPILKwtexd3Ib1yzEzuIOHw86tTN6UV1oFW2eQ), usually meeting in IMA studio N306
+- Mondays 5:15 - 8:00pm ~ N406 / Screening Room
+- Instructor: Viola He [viola@nyu.edu](mailto:viola@nyu.edu)
+- Office Hours by [appointment](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ23EM8KtHCIN9KOmjs7DCfXW8TV_BH-8c4p-lvPILKwtexd3Ib1yzEzuIOHw86tTN6UV1oFW2eQ), usually meeting in IMA studio N306
 
 ---
 
