@@ -2,4 +2,4 @@
 *Apr 27 — Screening Room?*
 
 ## In Class
-Final project work session.
+- Final project work session.

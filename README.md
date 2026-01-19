@@ -1,4 +1,4 @@
-# Topics in IMA: Interface for Embodied Interaction Spring 26
+# Interface for Embodied Interaction Sp26
 
 - Mondays 5:15 - 8:00pm ~ N406 / Screening Room
 - Instructor: Viola He [viola@nyu.edu](mailto:viola@nyu.edu)
@@ -35,5 +35,5 @@ This course explores embodied interfaces, in which students learn to use TouchDe
 
 ## Tools
 
-- [TouchDesigner](https://derivative.ca/) (free license)
+- [TouchDesigner](https://derivative.ca/)
 

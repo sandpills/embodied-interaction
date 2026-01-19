@@ -28,7 +28,7 @@ Students will learn to use TouchDesigner, MediaPipe, and other sensors to create
 
 ### Weekly assignments
 
-Each week, you're expected to submit a short assignment in the form of either a sketch, a research report, or a reading reflection.
+Each week, you're expected to submit a blog post. The content may include a sketch, a research report, a reading reflection, or a project development documentation. Read assignment submission guidelines here.
 
 ### Projects
 

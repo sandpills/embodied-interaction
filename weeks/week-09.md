@@ -8,4 +8,4 @@
 - Kinect data
 
 ## Assignment
-Work on Project #2.
+- Work on Project #2.

@@ -2,7 +2,7 @@
 *Mar 30 — Screening Room*
 
 ## In Class
-Project #2 performances and critique.
+- Project #2 performances and critique.
 
 ## Assignment
-Project #2 documentation.
+- Project #2 documentation.

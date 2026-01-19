@@ -2,4 +2,4 @@
 *May 4*
 
 ## In Class
-Final project presentations and critique.
+- Final project presentations and critique.

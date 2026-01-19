@@ -7,4 +7,4 @@
 - Technical workshop: logic, advanced
 
 ## Assignment
-Work on Project #1.
+- Work on Project #1.

@@ -9,4 +9,4 @@
 - The bane of "mirror projects"
 
 ## Assignment
-Sketch: Make a portrait that is NOT a mirror. The webcam sees you, but what appears on screen is not your reflection.
+- Sketch: Make a self portrait with webcam that is NOT a mirror. 

@@ -7,4 +7,4 @@
 - Technical workshop: 2D, collage, interface
 
 ## Assignment
-Sketch: Take one interface convention and re-implement it using the body.
+- Sketch: Take one interface convention and re-implement it using the body.

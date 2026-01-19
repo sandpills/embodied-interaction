@@ -2,7 +2,7 @@
 *Mar 2*
 
 ## In Class
-Project #1 presentations and critique.
+- Project #1 presentations and critique.
 
 ## Assignment
-Project #1 documentation.
+- Project #1 documentation.

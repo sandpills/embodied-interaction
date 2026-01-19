@@ -6,4 +6,4 @@
 - Final project proposals
 
 ## Assignment
-Work on final project.
+- Work on project 3

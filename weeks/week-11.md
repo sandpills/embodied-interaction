@@ -6,10 +6,6 @@
 - Mapping
 
 ## Assignment
-**Final Project** (due Week 14): TBD
+- **Project 3** (due Week 14): TBD
+- Sketch!
 
-<!--
-Ideas:
-- Design flexible system for multiple people in the room?
-- One big group project? Mix/match different modules? Collaboratively design something? Nervous system?
--->
