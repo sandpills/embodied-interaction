@@ -24,7 +24,7 @@ Build an interface that requires two people. It should only "work" (produce the 
 
 1. **In-class performance** (Week 10): 8 minute performance of your duet
 2. **Documentation** (due week after crit):
-   - Video documentation
+   - Video documentation of your perforance
    - Written reflection
 
 ## References

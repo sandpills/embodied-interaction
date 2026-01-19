@@ -24,9 +24,9 @@ An instrument with resistance doesn't respond 1:1 to your input. Consider:
 
 ## Deliverables
 
-1. **In-class presentation** (Week 6): 3-5 minute demonstration of your instrument
+1. **In-class presentation** (Week 6): 3-5 minute performance of your instrument
 2. **Documentation** (due week after crit):
-   - Video of you playing the instrument
+   - Video of you demonstrationg the instrument
    - Written reflection
 
 ## References

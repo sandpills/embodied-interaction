@@ -1,10 +1,10 @@
 # Week 1: Human Body, Computer Vision
-*Jan 19*
+*Jan 19* 
 
 ## In Class
-- Class intro!
+- Intro!
 - Humanities approaches to the interface
-- TD intro: feedback in a memory-less system
+- TD basics: animation and feedback in a memory-less system
 - Saving .tox files
 - Screen recording with TD
 
@@ -15,4 +15,5 @@
 - Submit your assignments via the [homework google form](https://forms.gle/kbiQE6qAnra35pxh8)
 
 ## Links
-- [Touchdesigner MediaPipe documentation](https://github.com/torinmb/mediapipe-touchdesigner)
+- [week 1 slides](https://docs.google.com/presentation/d/1b--2xrWDmF2CjPpyW9u5alVUK4ky5INvW5_J3FJ-_HM/edit?slide=id.g3baca30fe16_1_97#slide=id.g3baca30fe16_1_97)
+- [in-class example](../examples/) 
