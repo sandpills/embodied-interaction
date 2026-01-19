@@ -3,7 +3,7 @@
 
 ## In Class
 - Class intro!
-- How does a machine see?
+- Humanities approaches to the interface
 - TD intro: feedback in a memory-less system
 - Saving .tox files
 - Screen recording with TD
