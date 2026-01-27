@@ -13,4 +13,5 @@
 - Sketch: drawing machine V2. Iterate on your drawing machine, but this time, choose which body point is your "pen." Add variations to the pathway, and create a 30-second choreography with your machine.
 
 ## Links
+- [week 2 slides](https://docs.google.com/presentation/d/1h5sn5bq9aHfUlmU3hVvusbO9ehig-KDPeKGnvmXpUdg/edit?slide=id.p#slide=id.p)
 - [Touchdesigner MediaPipe documentation](https://github.com/torinmb/mediapipe-touchdesigner)
