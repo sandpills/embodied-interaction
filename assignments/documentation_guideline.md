@@ -25,5 +25,5 @@ Below is what I expect from your post:
     - In your own sentences, what are some concepts or ideas that stood out to you?
     - Share one question or critique that emerged for you while reading. This could be something you'd like to discuss further in class, or an idea you'd like to challenge.
 
-- Midterm and Final Project Documentation
-	Gather and compile your performance materials into a documentation page, alongside your personal written reflection. Format could be creative, but the page should be accessible via a link on the internet. More guidelines coming soon.
+- Project Documentation
+	Gather and compile your materials into a documentation page, alongside your personal written reflection. Format could be creative, but the page should be accessible via a link on the internet. More guidelines coming soon.

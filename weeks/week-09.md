@@ -2,10 +2,8 @@
 *Mar 23*
 
 ## In Class
-- Phone
-- MIDI
-- Serial input (Arduino)
-- Kinect data
+- External I/O: Phone, MIDI, Serial input (Arduino), Kinect
+- Project #2 rehearsals
 
 ## Assignment
 - Work on Project #2.

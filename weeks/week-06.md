@@ -6,3 +6,4 @@
 
 ## Assignment
 - Project #1 documentation.
+- CHOP research

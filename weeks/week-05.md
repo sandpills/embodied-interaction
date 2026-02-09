@@ -2,9 +2,10 @@
 *Feb 23*
 
 ## In Class
-- One-switch games
-- Alt control
-- Technical workshop: logic, advanced
+- one-switch games
+- alt control
+- Technical workshop: advanced logic, calibration for perforance
+- CHOP research
 
 ## Assignment
-- Work on Project #1.
+- Work on [Project #1](../assignments/project-2)!

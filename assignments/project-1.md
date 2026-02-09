@@ -9,10 +9,11 @@ Make a gestural audio-visual instrument with at least two sound parameters. The 
 
 ## Requirements
 
-- MediaPipe for input
-- At least two sound parameters controlled by hand or face movement
+- Use MediaPipe for input
+- At least two sound parameters controlled by hand or body movements
 - Visual feedback that responds to your gestures
 - The instrument should feel like it "pushes back": there should be a sense of physicality, effort, or constraint
+- ONLY USE Touchdesigner for sound and visuals.
 
 ## What does "resistance" mean?
 
@@ -24,10 +25,11 @@ An instrument with resistance doesn't respond 1:1 to your input. Consider:
 
 ## Deliverables
 
-1. **In-class presentation** (Week 6): 3-5 minute performance of your instrument
-2. **Documentation** (due week after crit):
-   - Video of you demonstrationg the instrument
-   - Written reflection
+1. Gesture inventory sketch book (due Week 5)
+2. In-class presentation (due Week 6): 3-5 minute performance of your instrument
+3. Documentation (due Week 7):
+	- Video of you demonstrating the instrument
+	- Written reflection
 
 ## References
 
