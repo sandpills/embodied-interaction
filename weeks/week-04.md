@@ -17,7 +17,7 @@
 - Tutorial: Find a 20-40 mins Touchdesigner Tutorial and follow it step by step. Note what are some clarifying points, and what are some questions that arises for you.
 
 ## Links
-- [week 4 slides]([https://docs.google.com/presentation/d/1mRMW5Ewbq6tCFfeMBeo1kA_IBN7Sd005uKqDOY95jqA/edit?usp=sharing](https://docs.google.com/presentation/d/1ed347wOglhS-61FFzoDIWeECPDo8_8DBWAJN-R-asMA/edit?slide=id.g3baca30fe16_1_63#slide=id.g3baca30fe16_1_63))
+- [week 4 slides](https://docs.google.com/presentation/d/1ed347wOglhS-61FFzoDIWeECPDo8_8DBWAJN-R-asMA/edit?usp=sharing)
 - [Audio Examples tox](https://drive.google.com/file/d/1APhm216PjsimGToO_VW5BeXTZpkhbZRJ/view?usp=drive_link)
 - Perry Cook, [Principles for Designing Computer Music Controllers](https://www.nime.org/proceedings/2001/nime2001_003.pdf) (2001)
 - Bret Victor, [A brief rant on the future of interaction design](https://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/#:~:text=the%20back%20seat) (2011)
