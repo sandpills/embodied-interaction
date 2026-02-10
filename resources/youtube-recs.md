@@ -1,4 +1,4 @@
-A list of TouchDesigner Youtube tutorial channels based on personal taste
+## TouchDesigner Youtube tutorial channels based on personal taste
 
 Niche creators with interesting aesthetics:
 - [Noto the Talking Ball](https://www.youtube.com/@NotoTheTalkingBall/videos) 
