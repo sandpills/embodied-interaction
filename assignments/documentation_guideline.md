@@ -26,4 +26,10 @@ Below is what I expect from your post:
     - Share one question or critique that emerged for you while reading. This could be something you'd like to discuss further in class, or an idea you'd like to challenge.
 
 - Project Documentation
-	Gather and compile your materials into a documentation page, alongside your personal written reflection. Format could be creative, but the page should be accessible via a link on the internet. More guidelines coming soon.
+	Gather and compile your materials into a documentation page, alongside your personal written reflection. Format could be creative, but the page should be accessible via a link on the internet. Content to include:
+    - Introduction: Brief explanation of the work - artists involved, concept, and statement 
+    - Collaborative Reflection if applicable: How did your group divide roles and responsibilities during the performance? How did you communicate? Compare your planned approaches with what actually happened.
+    - Technical Documentation: Notes on what you learned about your tools through this project. How did the body interact with your technical system? Share some technical details of parts that you feel particularly proud of
+    - Process & Experience: How did the project come into shape? How was your practice different from the presentation, what did you learn? Share any artifacts, media, and additional materials from your practice and building process.
+    - Credits and References: Inspirations, who helped you, etc.
+    - Photo and Video documentation: Include some photos, whether screenshots or performance photos. Feel free to upload your performance video to Youtube, Vimeo etc. and include in your documentation. You can also combine / edit things. It's not uncommon for artists to edit and re-record live performances for documentation purposes.
