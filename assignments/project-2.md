@@ -1,11 +1,18 @@
 # Project 2: Duet
 
-**Assigned:** Week 8
+**Assigned:** Week 7
 **Due:** Week 10 (Mar 30)
+
+## Timeline
+
+- **Week 7:** Project assigned, find a partner
+- **Week 8:** Project check-in, proposal worksheet due in-class
+- **Week 9:** Project proposal due; in-class project development
+- **Week 10:** Project presentation
 
 ## Brief
 
-Build an interface that requires two people. It should only "work" (produce the intended output) when both are present and engaged.
+Most interfaces are designed for one person. This project asks you to design an interface that requires two people. It should only "work" (produce the intended output) when both are present and engaged.
 
 ## Requirements
 
