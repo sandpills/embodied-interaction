@@ -1,4 +1,4 @@
-# Project 3: Final Project
+# Project 3: Playable System
 
 **Assigned:** Week 11
 **Due:** Week 14 (May 4)
@@ -29,5 +29,15 @@ Solo or with a partner, build an system that reveals something about a body part
 3. A score / artist note (due with installation)
 4. Documentation (due week after show)
 
-## References
+## Project documentation Guidelines
+
+Gather and compile your project materials into a documentation page, alongside your written reflection ✦ Content to Include
+
+- Introduction: Brief explanation of the work. Who made it, concept, and artistic statement. This should be co-authored if working with a partner.
+- System Description: How does your piece work, technically and experientially? Describe the input (what the system senses), the logic (how it interprets), and the output (what it produces). Include a diagram if helpful.
+- Interaction Description: Describe what happens when a stranger walks up to your piece for the first time. What do they discover? What's the arc of the experience? If you observed people interacting with your piece at the IMA show, describe what surprised you.
+- Process & Development: How did the project evolve from your proposal to the final version? What changed and why? Include artifacts from your process ( screenshots, earlier versions, etc.)
+- Technical Reflection: What did you learn about your tools through building this? Describe one or two technical details you were particularly proud of.
+- Credits and References: Inspirations, sources, who helped you, etc.
+- Photo and Video Documentation: Include installation photos and videos showing the project. Video documentation should capture the experience of someone encountering the piece, not just the screen output. Upload to YouTube/Vimeo and embed in your blog post. It's fine to re-document or edit footage after the show!
 
